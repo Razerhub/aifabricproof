@@ -1,4 +1,4 @@
-SHA-256 hash of CAPITALAIZE™ AI Fabric UI High Level Design pdf:
+SHA-256 hash of CAPITALAIZE™ AI Fabric Orchestration UI High Level Design pdf:
 
 9264b746e6836e866949f11c1b93f91bbbab26c54fc9b3854d22e5e7bbf14205
 
